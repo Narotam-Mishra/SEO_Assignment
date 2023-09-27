@@ -1,0 +1,12 @@
+Question 5 - Define Favicon and give an illustrative example.
+
+# Favicon - HTML Favicon is a small icon that represents a website and appears in the browser’s tab or bookmark bar. It is defined in HTML using the <link> tag with the rel attribute set to “icon.” The Favicon is also known as the Favorite icon.
+
+# Syntax to add favicon to web page :-
+<link rel="icon" type="image/png" href="path-to-favicon">
+
+# Steps to create Favicon in HTM :-
+Step 1: Create a small square image (e.g., 16×16 pixels or 32×32 pixels) to serve as your favicon. Save it in a suitable format like PNG, GIF, or ICO.
+Step 2: Save the image with a suitable filename, such as “favicon.png” or “favicon.ico”.
+Step 3: Upload the favicon image to your website’s server or hosting directory.
+Step 4: In the <head> section of your HTML document, add the following code

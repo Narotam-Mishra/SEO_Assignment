@@ -1,0 +1,13 @@
+Question 3 - What are benefits of using meta tags ?
+
+# Meta tag - Meta Tag is a HTML component that gives the metadata about a HTML document. Meta data can be characterized as data that gives the data of different information or basic information about information. It is an empty tag, for example, it just has an initial tag and no end tag. Meta tags are used by Web Browsers, Search Engines, and other Web Services to rank the web pages accordingly.
+
+# Benefits of using meta tags :-
+
+1). Specifying Important Keywords :- The meta tag contains important keywords that are present on the web page and is utilized by the web browser to rank the page according to searches. Search Engine Optimization is another term for this optimizing the SEO rank of the content.
+
+2). Automatic Refresh :- A specified time will be mentioned in the meta tag after which the webpage will be automatically refreshed.
+
+3). Specifying Author of the Webpage :- MetaTag allows us to mention the name of the author of the webpage.
+
+4). Providing a Description of the web page :- A brief description of the web page can be included in the Meta tag, which will help the web page rank on the internet.
